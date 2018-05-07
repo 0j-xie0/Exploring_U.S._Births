@@ -16,4 +16,4 @@
 
 # Observations
 •There are the most births in Ausgust than any other month. This is consistent with the fact that sexual activity peaks around spring time.  
-•Births seem to be equally distributed for Day of Week and Day of Month.
+•Births seem to be evenly distributed for Day of Week and Day of Month.
