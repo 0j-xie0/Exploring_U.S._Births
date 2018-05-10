@@ -7,7 +7,6 @@
 # Installation
 •Clone this repo to your computer.  
 •OPTIONAL: original dataset available [here.](https://github.com/fivethirtyeight/data/tree/master/births)  
-•Install the requirements using pip install -r requirements.txt.  
 •Make sure you use Python 3.  
 •You may want to install [Jupyter](http://jupyter.org/install) to run the ipynb.
 
